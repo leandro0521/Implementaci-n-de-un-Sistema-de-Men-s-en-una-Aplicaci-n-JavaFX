@@ -1,6 +1,6 @@
 ## formulario en JavaFx
 
-Este código JavaFX crea una interfaz gráfica con varios controles (botón, casilla de verificación, hipervínculo, botón de alternancia, botón de radio, etiquetas, campo de texto, campo de contraseña, área de texto, indicador de progreso, barra de progreso y deslizador) organizados en una cuadrícula (GridPane). Cada control está acompañado por una etiqueta descriptiva. La aplicación se inicia en el método main y configura la ventana con un título y una escena que contiene el GridPane.
+Nos crea una interfaz gráfica con varios controles como lo son (botón, casilla de verificación, hipervínculo, botón de alternancia, botón de radio, etiquetas, campo de texto, campo de contraseña, área de texto, indicador de progreso, barra de progreso y deslizador) organizados en una cuadrícula (GridPane). Cada uno de los controles está acompañado por una etiqueta descriptiva. La aplicación se inicia en el método main y configura la ventana con un título y una escena que contiene el GridPane.
 
 package Formulario;
 
